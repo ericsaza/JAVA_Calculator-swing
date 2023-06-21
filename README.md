@@ -1,6 +1,6 @@
 
 English / [Spanish](https://github.com/ericsaza/JAVA_Calculator-swing/blob/main/README_es.md)
-# Calculator with JAVA - Swinf
+# Calculator with JAVA - Swing
 This is a simple calculator implemented with JAVA and Swift. You can use it to perform basic addition, subtraction, multiplication and division operations.
 
 # Characteristics:
