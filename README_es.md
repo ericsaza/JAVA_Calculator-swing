@@ -1,5 +1,5 @@
 [English](https://github.com/ericsaza/JAVA_Calculator-swing/blob/main/README.md) / Spanish
-# Calculadora con JAVA - Swinf
+# Calculadora con JAVA - Swing
 Esta es una calculadora sencilla implementada con JAVA y Swift. Puedes utilizarla para realizar operaciones básicas de suma, resta, multiplicación y división.
 
 # Características:
